@@ -24,11 +24,11 @@ Load the dataset into a Pandas DataFrame, handle missing values, remove duplicat
 
 Steps:
 
-Read the dataset into a Pandas DataFrame.
-Identify and handle missing values.
-Remove duplicate records.
-Correct data types as required.
-Apply necessary transformations to the data.
+1.Read the dataset into a Pandas DataFrame.
+2.Identify and handle missing values.
+3.Remove duplicate records.
+4.Correct data types as required.
+5.Apply necessary transformations to the data.
 
 ### 4.Load Data
 
